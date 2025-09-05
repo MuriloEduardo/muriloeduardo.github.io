@@ -3,7 +3,7 @@
 
 <!-- Hero -->
 <div>
-  <h1>🏨 Transforme seu WhatsApp em um atendente 24h com IA</h1>
+  <h2>🏨 Transforme seu WhatsApp em um atendente 24h com IA</h2>
   <p class="lead mt-3">Mais reservas, hóspedes satisfeitos e menos tempo perdido respondendo perguntas repetitivas.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-4">📲 Quero testar grátis agora</a>
 </div>
