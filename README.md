@@ -12,16 +12,16 @@
 <div class="section my-5 p-5">
   <h2 class="section-title">❌ O problema</h2>
   <div class="row g-5 text-center">
-    <div class="col-md-3 ">
+    <div class="col-md">
       <div class="card p-5">📩 Mensagens sem resposta durante a noite</div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md">
       <div class="card p-5">🔁 Perguntas repetitivas todos os dias</div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md">
       <div class="card p-5">⏱️ Perda de reservas pela demora</div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md">
       <div class="card p-5">⭐ Avaliações negativas pela falta de agilidade</div>
     </div>
 </div>
@@ -30,17 +30,17 @@
 <div class="section bg-light my-5 p-5">
   <h2 class="section-title mb-5">🚀 Nossa solução</h2>
   <div class="row g-5">
-    <div class="col-md-3 text-center">
+    <div class="col-md text-center">
       <div class="card p-5">🤖 <br><b>Assistente Virtual</b><br> Responde 24/7 em segundos</div>
     </div>
-    <div class="col-md-3 text-center">
+    <div class="col-md text-center">
       <div class="card p-5">📅 <br><b>Reservas diretas</b><br> Sem perder clientes</div>
     </div>
-    <div class="col-md-3 text-center">
+    <div class="col-md text-center">
       <div class="card p-5">🌍 <br><b>Múltiplos idiomas</b><br> Ideal para turistas
       </div>
     </div>
-    <div class="col-md-3 text-center">
+    <div class="col-md text-center">
       <div class="card p-5">📊 <br><b>Relatórios</b><br> Insights de hóspedes
       </div>
     </div>
@@ -60,19 +60,19 @@
 <div class="section bg-light my-5 p-5">
   <h2 class="section-title">💡 Escolha seu plano</h2>
   <div class="row g-5">
-    <div class="col-md-4">
+    <div class="col-md">
       <div class="card p-5 text-center">
         <h4>🔹 Básico</h4>
         <p>WhatsApp automatizado 24h</p>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <div class="card p-5 text-center">
         <h4>🔸 Avançado</h4>
         <p>+ Reservas diretas + relatórios</p>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <div class="card p-5 text-center">
         <h4>🌟 Premium</h4>
         <p>+ Upsell automático + IA customizada</p>
@@ -88,16 +88,16 @@
 <div id="lead-form" class="section my-5">
   <h2 class="section-title">📩 Receba sua demonstração grátis</h2>
   <form class="row g-3 justify-content-center align-items-center">
-    <div class="col-md-4">
+    <div class="col-md">
       <input type="text" class="form-control p-3" placeholder="Seu Nome" required>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <input type="email" class="form-control p-3" placeholder="Seu E-mail" required>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <input type="tel" class="form-control p-3" placeholder="WhatsApp" required>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <select class="form-select p-3">
         <option selected>Tipo de negócio</option>
         <option>Hotel</option>
@@ -105,7 +105,7 @@
         <option>Airbnb</option>
       </select>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md text-center">
       <button type="submit" class="btn btn-primary btn-lg btn-cta w-100 mt-5">Receber demonstração grátis</button>
     </div>
   </form>
