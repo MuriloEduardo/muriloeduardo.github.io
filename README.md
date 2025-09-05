@@ -3,6 +3,9 @@
 
 <!-- Estilo customizado -->
 <style>
+  .markdown-body {
+    margin: 0!important;
+  }
   body {
     font-family: 'Inter', sans-serif;
     background: #f8f9fa;
