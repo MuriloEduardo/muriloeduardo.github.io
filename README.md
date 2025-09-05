@@ -9,7 +9,7 @@
 </div>
 
 <!-- Problema -->
-<div class="section my-5">
+<div class="section my-5 p-5">
   <h2 class="section-title">❌ O problema</h2>
   <div class="row g-5 text-center">
     <div class="col-md-3 ">
@@ -48,7 +48,7 @@
 </div>
 
 <!-- Prova Social -->
-<div class="section my-5">
+<div class="section my-5 p-5">
   <h2 class="section-title">💬 O que dizem nossos clientes</h2>
   <blockquote class="p-0 border-0 rounded blockquote text-center">
     “Desde que ativamos o assistente, 80% das dúvidas são respondidas automaticamente e aumentamos em 25% nossas reservas diretas.”
@@ -57,7 +57,7 @@
 </div>
 
 <!-- Planos -->
-<div class="section bg-light my-5">
+<div class="section bg-light my-5 p-5">
   <h2 class="section-title">💡 Escolha seu plano</h2>
   <div class="row g-5">
     <div class="col-md-4">
