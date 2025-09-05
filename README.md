@@ -61,8 +61,6 @@
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-4">📲 Quero testar grátis agora</a>
 </div>
 
----
-
 <!-- Problema -->
 <div class="section">
   <h2 class="section-title">❌ O problema</h2>
@@ -73,8 +71,6 @@
     <div class="col-md-3">⭐ Avaliações negativas pela falta de agilidade</div>
   </div>
 </div>
-
----
 
 <!-- Solução -->
 <div class="section bg-light">
@@ -87,18 +83,14 @@
   </div>
 </div>
 
----
-
 <!-- Prova Social -->
 <div class="section">
   <h2 class="section-title">💬 O que dizem nossos clientes</h2>
-  <blockquote class="pt-3 rounded shadow blockquote text-center text-light">
+  <blockquote class="pt-3 rounded blockquote text-center">
     “Desde que ativamos o assistente, 80% das dúvidas são respondidas automaticamente e aumentamos em 25% nossas reservas diretas.”
-    <footer class="blockquote-footer mt-3">Hotel Cliente <cite title="Source Title">Pousada Exemplo</cite></footer>
+    <footer class="blockquote-footer mt-3">Cliente Gabriel <cite title="Source Title">Pousada Vila dos Sonhos</cite></footer>
   </blockquote>
 </div>
-
----
 
 <!-- Planos -->
 <div class="section bg-light">
@@ -128,12 +120,10 @@
   </div>
 </div>
 
----
-
 <!-- Captura de Leads -->
 <div id="lead-form" class="section">
   <h2 class="section-title">📩 Receba sua demonstração grátis</h2>
-  <form class="row g-3 justify-content-center">
+  <form class="row g-3 justify-content-center align-items-center">
     <div class="col-md-4">
       <input type="text" class="form-control p-3" placeholder="Seu Nome" required>
     </div>
@@ -156,8 +146,6 @@
     </div>
   </form>
 </div>
-
----
 
 <!-- Rodapé -->
 <footer class="shadow">
