@@ -8,6 +8,9 @@
     margin: inherit!important;
     padding: inherit!important;
   }
+  .markdown-body h1 {
+    border-bottom: inherit!important;
+  }
   body {
     font-family: 'Inter', sans-serif;
     background: #f8f9fa;
@@ -57,29 +60,29 @@
 <!-- Hero -->
 <div class="hero shadow">
   <h1>🏨 Transforme seu WhatsApp em um atendente 24h com IA</h1>
-  <p class="lead mt-3">Mais reservas, hóspedes satisfeitos e menos tempo perdido respondendo perguntas repetitivas.</p>
+  <p class="lead mt-3 text-light">Mais reservas, hóspedes satisfeitos e menos tempo perdido respondendo perguntas repetitivas.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-4">📲 Quero testar grátis agora</a>
 </div>
 
 <!-- Problema -->
 <div class="section">
   <h2 class="section-title">❌ O problema</h2>
-  <div class="row text-center">
-    <div class="col-md-3">📩 Mensagens sem resposta durante a noite</div>
-    <div class="col-md-3">🔁 Perguntas repetitivas todos os dias</div>
-    <div class="col-md-3">⏱️ Perda de reservas pela demora</div>
-    <div class="col-md-3">⭐ Avaliações negativas pela falta de agilidade</div>
+  <div class="row g-5 text-center">
+    <div class="col-md-3 card p-5">📩 Mensagens sem resposta durante a noite</div>
+    <div class="col-md-3 card p-5">🔁 Perguntas repetitivas todos os dias</div>
+    <div class="col-md-3 card p-5">⏱️ Perda de reservas pela demora</div>
+    <div class="col-md-3 card p-5">⭐ Avaliações negativas pela falta de agilidade</div>
   </div>
 </div>
 
 <!-- Solução -->
 <div class="section bg-light">
   <h2 class="section-title">🚀 Nossa solução</h2>
-  <div class="row g-4">
-    <div class="col-md-3 text-center">🤖 <br><b>Assistente Virtual</b><br> Responde 24/7 em segundos</div>
-    <div class="col-md-3 text-center">📅 <br><b>Reservas diretas</b><br> Sem perder clientes</div>
-    <div class="col-md-3 text-center">🌍 <br><b>Múltiplos idiomas</b><br> Ideal para turistas</div>
-    <div class="col-md-3 text-center">📊 <br><b>Relatórios</b><br> Insights de hóspedes</div>
+  <div class="row g-5">
+    <div class="col-md-3 text-center card p-4">🤖 <br><b>Assistente Virtual</b><br> Responde 24/7 em segundos</div>
+    <div class="col-md-3 text-center card p-4">📅 <br><b>Reservas diretas</b><br> Sem perder clientes</div>
+    <div class="col-md-3 text-center card p-4">🌍 <br><b>Múltiplos idiomas</b><br> Ideal para turistas</div>
+    <div class="col-md-3 text-center card p-4">📊 <br><b>Relatórios</b><br> Insights de hóspedes</div>
   </div>
 </div>
 
@@ -95,7 +98,7 @@
 <!-- Planos -->
 <div class="section bg-light">
   <h2 class="section-title">💡 Escolha seu plano</h2>
-  <div class="row g-4">
+  <div class="row g-5">
     <div class="col-md-4">
       <div class="card p-4 text-center">
         <h4>🔹 Básico</h4>
@@ -115,7 +118,7 @@
       </div>
     </div>
   </div>
-  <div class="text-center mt-4">
+  <div class="text-center mt-5">
     <a href="#lead-form" class="btn btn-success btn-lg btn-cta">👉 Quero começar agora</a>
   </div>
 </div>
