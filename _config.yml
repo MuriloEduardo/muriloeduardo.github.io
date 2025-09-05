@@ -1,0 +1,48 @@
+# Configurações principais do site
+theme: jekyll-theme-minimal
+title: Assistente de WhatsApp com IA
+description: Transforme seu hotel, pousada ou Airbnb com um atendimento 24h automatizado. Mais reservas, menos esforço e hóspedes mais satisfeitos.
+
+# URL do seu site (já com seu usuário do GitHub Pages)
+url: "https://muriloeduardo.github.io"
+baseurl: "" # se for usar /landing ou outro subpath, coloque aqui
+
+# SEO e metadados
+favicon: "/assets/favicon.ico"
+logo: "/assets/logo.png"
+
+# Autor
+author:
+  name: "Murilo Eduardo"
+  email: "seuemail@dominio.com"
+  url: "https://muriloeduardo.github.io"
+
+# Redes sociais (ajuda no SEO e Open Graph)
+social:
+  twitter: "seuuser"
+  facebook: "seupagina"
+  linkedin: "suaempresa"
+  instagram: "seuinsta"
+
+# Google Analytics (substitua pelo seu ID, ex: G-XXXXXXX)
+google_analytics: "G-XXXXXXXXXX"
+
+# Plugins extras para SEO
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Configuração do SEO tag (Open Graph e Twitter Cards automáticos)
+seo:
+  type: "website"
+  name: "Assistente de WhatsApp com IA"
+  description: "Atenda hóspedes 24h via WhatsApp com Inteligência Artificial. Ideal para hotéis, pousadas e Airbnbs."
+  twitter:
+    card: "summary_large_image"
+    site: "@seuuser"
+  image: "/assets/preview.png" # imagem que aparece no link (1200x630 recomendado)
+
+# Build settings
+markdown: kramdown
+permalink: pretty
