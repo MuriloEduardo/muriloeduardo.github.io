@@ -9,8 +9,8 @@
 </div>
 
 <!-- Problema -->
-<div class="section my-5 p-5">
-  <h2 class="section-title">❌ O problema</h2>
+<div class="my-5 p-5">
+  <h2 class="mb-5">❌ O problema</h2>
   <div class="row g-5 text-center">
     <div class="col-md">
       <div class="card p-5">📩 Mensagens sem resposta durante a noite</div>
@@ -24,11 +24,12 @@
     <div class="col-md">
       <div class="card p-5">⭐ Avaliações negativas pela falta de agilidade</div>
     </div>
+  </div>
 </div>
 
 <!-- Solução -->
-<div class="section bg-light my-5 p-5">
-  <h2 class="section-title mb-5">🚀 Nossa solução</h2>
+<div class="bg-light my-5 p-5">
+  <h2 class="mb-5">🚀 Nossa solução</h2>
   <div class="row g-5">
     <div class="col-md text-center">
       <div class="card p-5">🤖 <br><b>Assistente Virtual</b><br> Responde 24/7 em segundos</div>
@@ -48,8 +49,8 @@
 </div>
 
 <!-- Prova Social -->
-<div class="section my-5 p-5">
-  <h2 class="section-title">💬 O que dizem nossos clientes</h2>
+<div class="my-5 p-5">
+  <h2 class="mb-5">💬 O que dizem nossos clientes</h2>
   <blockquote class="p-0 border-0 rounded blockquote text-center">
     “Desde que ativamos o assistente, 80% das dúvidas são respondidas automaticamente e aumentamos em 25% nossas reservas diretas.”
     <footer class="blockquote-footer mt-3">Cliente Gabriel <cite title="Source Title">Pousada Vila dos Sonhos</cite></footer>
@@ -57,8 +58,8 @@
 </div>
 
 <!-- Planos -->
-<div class="section bg-light my-5 p-5">
-  <h2 class="section-title">💡 Escolha seu plano</h2>
+<div class="bg-light my-5 p-5">
+  <h2 class="mb-5">💡 Escolha seu plano</h2>
   <div class="row g-5">
     <div class="col-md">
       <div class="card p-5 text-center">
@@ -85,8 +86,8 @@
 </div>
 
 <!-- Captura de Leads -->
-<div id="lead-form" class="section my-5 p-5">
-  <h2 class="section-title">📩 Receba sua demonstração grátis</h2>
+<div id="lead-form" class="my-5 p-5">
+  <h2 class="mb-5">📩 Receba sua demonstração grátis</h2>
   <form class="row g-5 justify-content-center align-items-center">
     <div class="col-md">
       <input type="text" class="form-control p-3" placeholder="Seu Nome" required>
@@ -113,7 +114,7 @@
 
 <!-- Rodapé -->
 <footer class="my-5 p-5">
-  <h4>⚡ Não perca mais reservas por falta de atendimento</h4>
+  <h4 class="mb-5 fs-2">⚡ Não perca mais reservas por falta de atendimento</h4>
   <p>Tenha um número exclusivo no WhatsApp com IA em até 48h.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-3">📲 Quero meu assistente agora</a>
 </footer>
