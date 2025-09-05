@@ -8,7 +8,8 @@
     margin: inherit!important;
     padding: inherit!important;
   }
-  .markdown-body h1 {
+  .markdown-body h1,
+  .markdown-body h2 {
     border: 0!important;
   }
   body {
