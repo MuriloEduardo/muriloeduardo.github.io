@@ -8,6 +8,9 @@
     background: #f8f9fa;
     color: #212529;
   }
+  h1:not(.hero h1) {
+    display: none;
+  }
   .hero {
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
     color: white;
@@ -47,7 +50,7 @@
 </style>
 
 <!-- Hero -->
-<div class="hero">
+<div class="hero shadow">
   <h1>🏨 Transforme seu WhatsApp em um atendente 24h com IA</h1>
   <p class="lead mt-3">Mais reservas, hóspedes satisfeitos e menos tempo perdido respondendo perguntas repetitivas.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-4">📲 Quero testar grátis agora</a>
@@ -84,7 +87,7 @@
 <!-- Prova Social -->
 <div class="section">
   <h2 class="section-title">💬 O que dizem nossos clientes</h2>
-  <blockquote class="blockquote text-center">
+  <blockquote class="pt-3 rounded shadow blockquote text-center text-light">
     “Desde que ativamos o assistente, 80% das dúvidas são respondidas automaticamente e aumentamos em 25% nossas reservas diretas.”
     <footer class="blockquote-footer mt-3">Hotel Cliente <cite title="Source Title">Pousada Exemplo</cite></footer>
   </blockquote>
@@ -127,16 +130,16 @@
   <h2 class="section-title">📩 Receba sua demonstração grátis</h2>
   <form class="row g-3 justify-content-center">
     <div class="col-md-4">
-      <input type="text" class="form-control" placeholder="Seu Nome" required>
+      <input type="text" class="form-control p-3" placeholder="Seu Nome" required>
     </div>
     <div class="col-md-4">
-      <input type="email" class="form-control" placeholder="Seu E-mail" required>
+      <input type="email" class="form-control p-3" placeholder="Seu E-mail" required>
     </div>
     <div class="col-md-4">
-      <input type="tel" class="form-control" placeholder="WhatsApp" required>
+      <input type="tel" class="form-control p-3" placeholder="WhatsApp" required>
     </div>
     <div class="col-md-4">
-      <select class="form-select">
+      <select class="form-select p-3">
         <option selected>Tipo de negócio</option>
         <option>Hotel</option>
         <option>Pousada</option>
@@ -144,7 +147,7 @@
       </select>
     </div>
     <div class="col-md-4 text-center">
-      <button type="submit" class="btn btn-primary btn-lg btn-cta w-100">Receber demonstração grátis</button>
+      <button type="submit" class="btn btn-primary btn-lg btn-cta w-100 mt-5">Receber demonstração grátis</button>
     </div>
   </form>
 </div>
@@ -152,7 +155,7 @@
 ---
 
 <!-- Rodapé -->
-<footer>
+<footer class="shadow">
   <h4>⚡ Não perca mais reservas por falta de atendimento</h4>
   <p>Tenha um número exclusivo no WhatsApp com IA em até 48h.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-3">📲 Quero meu assistente agora</a>
