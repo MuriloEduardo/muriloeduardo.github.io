@@ -86,7 +86,7 @@
 <!-- Prova Social -->
 <div class="section">
   <h2 class="section-title">💬 O que dizem nossos clientes</h2>
-  <blockquote class="pt-3 rounded blockquote text-center">
+  <blockquote class="p-0 border-0 rounded blockquote text-center">
     “Desde que ativamos o assistente, 80% das dúvidas são respondidas automaticamente e aumentamos em 25% nossas reservas diretas.”
     <footer class="blockquote-footer mt-3">Cliente Gabriel <cite title="Source Title">Pousada Vila dos Sonhos</cite></footer>
   </blockquote>
