@@ -3,7 +3,7 @@
 
 <!-- Hero -->
 <div>
-  <h2>🏨 Transforme seu WhatsApp em um atendente 24h com IA</h2>
+  <h2 class="my-5">🏨 Transforme seu WhatsApp em um atendente 24h com IA</h2>
   <p class="lead mt-3">Mais reservas, hóspedes satisfeitos e menos tempo perdido respondendo perguntas repetitivas.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-4">📲 Quero testar grátis agora</a>
 </div>
@@ -85,9 +85,9 @@
 </div>
 
 <!-- Captura de Leads -->
-<div id="lead-form" class="section my-5">
+<div id="lead-form" class="section my-5 p-5">
   <h2 class="section-title">📩 Receba sua demonstração grátis</h2>
-  <form class="row g-3 justify-content-center align-items-center">
+  <form class="row g-5 justify-content-center align-items-center">
     <div class="col-md">
       <input type="text" class="form-control p-3" placeholder="Seu Nome" required>
     </div>
@@ -106,13 +106,13 @@
       </select>
     </div>
     <div class="col-md text-center">
-      <button type="submit" class="btn btn-primary btn-lg btn-cta w-100 mt-5">Receber demonstração grátis</button>
+      <button type="submit" class="btn btn-primary btn-lg btn-cta w-100">Receber demonstração grátis</button>
     </div>
   </form>
 </div>
 
 <!-- Rodapé -->
-<footer class="my-5">
+<footer class="my-5 p-5">
   <h4>⚡ Não perca mais reservas por falta de atendimento</h4>
   <p>Tenha um número exclusivo no WhatsApp com IA em até 48h.</p>
   <a href="#lead-form" class="btn btn-warning btn-lg btn-cta mt-3">📲 Quero meu assistente agora</a>
