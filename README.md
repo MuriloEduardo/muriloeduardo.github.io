@@ -4,9 +4,9 @@
 <!-- Estilo customizado -->
 <style>
   .markdown-body {
-    margin: inherit;
-    padding: inherit;
     max-width: inherit;
+    margin: inherit!important;
+    padding: inherit!important;
   }
   body {
     font-family: 'Inter', sans-serif;
